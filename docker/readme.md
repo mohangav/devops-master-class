@@ -68,6 +68,7 @@ docker container ls -a
 docker container pause 832
 docker container unpause 832
 docker container stop 832
+docker container kill <id>
 docker container inspect ff521fa58db3
 docker container prune
 docker system
